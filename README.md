@@ -1,1 +1,1 @@
-![nyan](./nyancat.gif)
+![nyan](nyancat.gif)
